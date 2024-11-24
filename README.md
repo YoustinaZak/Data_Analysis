@@ -7,10 +7,9 @@ Welcome to my **Data Analysis Projects** repository! This repository contains a 
 ## Projects Included
 
 ### 1. **Python Data Analysis Project**
-   - **Description**: This project involves data cleaning, exploration, and visualization using Python libraries such as `pandas`, `matplotlib`, and `seaborn`. It focuses on uncovering patterns and trends in the dataset to generate meaningful insights.
+   - **Description**: This project involves data cleaning, exploration, and visualization using Python libraries such as `pandas` and `numpy`. It focuses on uncovering patterns and trends in the dataset to generate meaningful insights.
    - **Highlights**:
-     - Data preprocessing and handling missing values.
-     - Exploratory Data Analysis (EDA) with visualizations.
+     - Exploratory Data Analysis (EDA)
      - Key insights and statistical analysis.
    - **How to Run**:
      1. Clone the repository.
@@ -30,6 +29,3 @@ Welcome to my **Data Analysis Projects** repository! This repository contains a 
      - Explore the dashboard and interact with the visuals.
 
 ---
-
-## Repository Structure
-
